@@ -1,0 +1,15 @@
+{
+  "name": "feed-parser",
+  "version": "0.0.1",
+  "description": "Parses a source feed or API endpoint and exports a data format for consumption by target service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Hoffman",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "xml2js": "^0.4.19"
+  }
+}
