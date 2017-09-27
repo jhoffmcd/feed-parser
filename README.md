@@ -1,6 +1,6 @@
-# Feed Parse
+# Feed Parser
 
-This is a demo of how to parse an one format of data from an endpoint into another form of data and output a file.
+This is a demo of how to parse one format of data from an endpoint into another form of data and output a file.
 
 ## Notes:
 
