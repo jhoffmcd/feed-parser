@@ -4,7 +4,7 @@ This project is an attempt to organize a set of standard exportable functions th
 
 It's still missing most of the feed helper functions. So far it has just been tested with feed submissions.
 
-** This highly untested and conceptual at this point. It is not reccommended that you use this as a production ready tool. **
+** This highly untested and conceptual at this point. It is not recommended that you use this as a production ready tool. **
 
 ## Table of Contents
 
@@ -18,8 +18,8 @@ It's still missing most of the feed helper functions. So far it has just been te
 
 ## Requirements
 
-* Node 6
-* Amazon seller account or developer account with access to seller account to keys
+- Node 6
+- Amazon seller account or developer account with access to seller account to keys
 
 ## Options
 
