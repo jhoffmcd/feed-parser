@@ -1,7 +1,7 @@
 {
-  "name": "feed-parser",
-  "version": "0.0.1",
-  "description": "Parses a source feed or API endpoint and exports a data format for consumption by target service.",
+  "name": "mws-js-helpers",
+  "version": "0.0.3",
+  "description": "This project is an attempt to organize a set of standard exportable functions that can interface with source data and export/transform that data for MWS consumption.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,13 @@
   "author": "Jesse Hoffman",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "commander": "^2.11.0",
+    "moment": "^2.18.1",
+    "request": "^2.83.0",
     "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "markdown-toc": "^1.2.0"
   }
 }

@@ -4,5 +4,15 @@ node_modules
 # Editors
 .idea
 
+# Config
+app/config/*
+!app/config/example.default.js
+
 # Build Files
-feed.json
+build
+
+# Reference Files
+ref
+
+# Profiles
+profiles
